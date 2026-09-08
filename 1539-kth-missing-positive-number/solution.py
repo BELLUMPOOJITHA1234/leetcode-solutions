@@ -1,4 +1,4 @@
-// 69 ms | 19.3 MB
+// 75 ms | 19.3 MB
 class Solution:
     def findKthPositive(self, arr, k):
         num = 1
