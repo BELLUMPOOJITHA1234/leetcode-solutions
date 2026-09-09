@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 11 (Easy: 7, Medium: 4, Hard: 0)
+Solved: 12 (Easy: 7, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,7 +13,8 @@ Solved: 11 (Easy: 7, Medium: 4, Hard: 0)
 | 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-09-09 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-09-09 |
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-09-09 |
+| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-09 |
 | 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-09-09 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-09 |
-| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-09 |
+| 658 | [Find K Closest Elements](658-find-k-closest-elements/) | Medium | 2026-09-09 |
 <!-- LEETHUB:TABLE:END -->
