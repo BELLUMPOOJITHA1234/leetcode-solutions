@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 13 (Easy: 8, Medium: 5, Hard: 0)
+Solved: 14 (Easy: 9, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Solved: 13 (Easy: 8, Medium: 5, Hard: 0)
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-09-10 |
 | 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-10 |
 | 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-09-10 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-10 |
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-10 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-10 |
+| 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-10 |
 <!-- LEETHUB:TABLE:END -->
