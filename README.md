@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 15 (Easy: 10, Medium: 5, Hard: 0)
+Solved: 16 (Easy: 11, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -20,4 +20,5 @@ Solved: 15 (Easy: 10, Medium: 5, Hard: 0)
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-11 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-11 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-11 |
+| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-11 |
 <!-- LEETHUB:TABLE:END -->
