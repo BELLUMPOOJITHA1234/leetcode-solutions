@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 16 (Easy: 11, Medium: 5, Hard: 0)
+Solved: 17 (Easy: 12, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Solved: 16 (Easy: 11, Medium: 5, Hard: 0)
 | 658 | [Find K Closest Elements](658-find-k-closest-elements/) | Medium | 2026-09-11 |
 | 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-09-11 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-09-11 |
+| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-11 |
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-09-11 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-11 |
 | 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-11 |
@@ -20,5 +21,5 @@ Solved: 16 (Easy: 11, Medium: 5, Hard: 0)
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-11 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-11 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-11 |
-| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-11 |
+| 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-09-11 |
 <!-- LEETHUB:TABLE:END -->
