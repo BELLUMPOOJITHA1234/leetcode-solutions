@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 15, Medium: 6, Hard: 0)
+Solved: 22 (Easy: 15, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Solved: 21 (Easy: 15, Medium: 6, Hard: 0)
 | 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-24 |
 | 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-09-24 |
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-09-24 |
+| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-24 |
 | 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-09-24 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-24 |
 | 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-24 |
@@ -25,5 +26,5 @@ Solved: 21 (Easy: 15, Medium: 6, Hard: 0)
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-24 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-24 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-24 |
-| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-24 |
+| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-09-24 |
 <!-- LEETHUB:TABLE:END -->
