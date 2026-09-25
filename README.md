@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 23 (Easy: 15, Medium: 7, Hard: 1)
+Solved: 24 (Easy: 15, Medium: 8, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Solved: 23 (Easy: 15, Medium: 7, Hard: 1)
 | 658 | [Find K Closest Elements](658-find-k-closest-elements/) | Medium | 2026-09-25 |
 | 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-09-25 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-09-25 |
+| 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-09-25 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-09-25 |
 | 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-25 |
 | 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-09-25 |
@@ -27,5 +28,5 @@ Solved: 23 (Easy: 15, Medium: 7, Hard: 1)
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-25 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-25 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-25 |
-| 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-09-25 |
+| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-25 |
 <!-- LEETHUB:TABLE:END -->
