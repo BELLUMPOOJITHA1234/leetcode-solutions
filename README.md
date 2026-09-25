@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 15, Medium: 9, Hard: 1)
+Solved: 26 (Easy: 15, Medium: 10, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -20,6 +20,7 @@ Solved: 25 (Easy: 15, Medium: 9, Hard: 1)
 | 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-09-25 |
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-09-25 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-25 |
+| 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-09-25 |
 | 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-09-25 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-25 |
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-25 |
@@ -29,5 +30,5 @@ Solved: 25 (Easy: 15, Medium: 9, Hard: 1)
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-25 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-25 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-25 |
-| 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-09-25 |
+| 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-09-25 |
 <!-- LEETHUB:TABLE:END -->
