@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 24 (Easy: 15, Medium: 8, Hard: 1)
+Solved: 25 (Easy: 15, Medium: 9, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -22,11 +22,12 @@ Solved: 24 (Easy: 15, Medium: 8, Hard: 1)
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-25 |
 | 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-09-25 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-25 |
+| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-25 |
 | 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-09-25 |
 | 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-25 |
 | 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-09-25 |
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-25 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-25 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-25 |
-| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-25 |
+| 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-09-25 |
 <!-- LEETHUB:TABLE:END -->
