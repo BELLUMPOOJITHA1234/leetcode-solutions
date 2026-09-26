@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 16, Medium: 10, Hard: 1)
+Solved: 28 (Easy: 16, Medium: 11, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,11 +25,12 @@ Solved: 27 (Easy: 16, Medium: 10, Hard: 1)
 | 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-09-26 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-26 |
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-26 |
+| 728 | [Self Dividing Numbers](728-self-dividing-numbers/) | Easy | 2026-09-26 |
 | 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-09-26 |
 | 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-26 |
 | 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-09-26 |
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-26 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-26 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-26 |
-| 728 | [Self Dividing Numbers](728-self-dividing-numbers/) | Easy | 2026-09-26 |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-26 |
 <!-- LEETHUB:TABLE:END -->
