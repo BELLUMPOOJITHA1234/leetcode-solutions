@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 16, Medium: 15, Hard: 2)
+Solved: 34 (Easy: 16, Medium: 16, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -17,6 +17,7 @@ Solved: 33 (Easy: 16, Medium: 15, Hard: 2)
 | 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-09-29 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-09-29 |
 | 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-09-29 |
+| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-29 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-09-29 |
 | 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-29 |
 | 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-09-29 |
@@ -37,5 +38,5 @@ Solved: 33 (Easy: 16, Medium: 15, Hard: 2)
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-29 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-29 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-29 |
-| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-29 |
+| 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
