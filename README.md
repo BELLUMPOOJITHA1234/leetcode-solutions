@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 35 (Easy: 16, Medium: 17, Hard: 2)
+Solved: 36 (Easy: 16, Medium: 18, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -36,8 +36,9 @@ Solved: 35 (Easy: 16, Medium: 17, Hard: 2)
 | 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-09-30 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-09-30 |
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-30 |
+| 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k/) | Medium | 2026-09-30 |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-09-30 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-30 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-30 |
-| 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k/) | Medium | 2026-09-30 |
+| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
