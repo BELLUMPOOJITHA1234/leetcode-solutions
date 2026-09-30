@@ -1,4 +1,4 @@
-// 28 ms | 21.7 MB
+// 32 ms | 21.7 MB
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         count = {0: 1}
