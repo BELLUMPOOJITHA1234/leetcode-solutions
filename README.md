@@ -5,40 +5,40 @@ Solved: 36 (Easy: 16, Medium: 18, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 15 | [3Sum](15-3sum/) | Medium | 2026-09-30 |
-| 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-09-30 |
-| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | Easy | 2026-09-30 |
-| 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy | 2026-09-30 |
-| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-30 |
-| 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 2026-09-30 |
-| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | 2026-09-30 |
-| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-30 |
-| 658 | [Find K Closest Elements](658-find-k-closest-elements/) | Medium | 2026-09-30 |
-| 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-09-30 |
-| 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-09-30 |
-| 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-09-30 |
-| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-30 |
-| 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-09-30 |
-| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-09-30 |
-| 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-09-30 |
-| 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-09-30 |
-| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-30 |
-| 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-09-30 |
-| 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-09-30 |
-| 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-09-30 |
-| 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-09-30 |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-09-30 |
-| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-30 |
-| 728 | [Self Dividing Numbers](728-self-dividing-numbers/) | Easy | 2026-09-30 |
-| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-09-30 |
-| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-09-30 |
-| 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-09-30 |
-| 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-09-30 |
-| 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-09-30 |
-| 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-09-30 |
-| 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k/) | Medium | 2026-09-30 |
-| 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-09-30 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-30 |
-| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-30 |
-| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-30 |
+| 15 | [3Sum](15-3sum/) | Medium | 2026-10-04 |
+| 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-10-04 |
+| 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | Easy | 2026-10-04 |
+| 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy | 2026-10-04 |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-10-04 |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 2026-10-04 |
+| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | 2026-10-04 |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-10-04 |
+| 658 | [Find K Closest Elements](658-find-k-closest-elements/) | Medium | 2026-10-04 |
+| 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-10-04 |
+| 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-10-04 |
+| 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-10-04 |
+| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-10-04 |
+| 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-10-04 |
+| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-10-04 |
+| 350 | [Intersection of Two Arrays II](350-intersection-of-two-arrays-ii/) | Easy | 2026-10-04 |
+| 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-10-04 |
+| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-10-04 |
+| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-04 |
+| 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-10-04 |
+| 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-10-04 |
+| 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-10-04 |
+| 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-10-04 |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-10-04 |
+| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-04 |
+| 728 | [Self Dividing Numbers](728-self-dividing-numbers/) | Easy | 2026-10-04 |
+| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-10-04 |
+| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-10-04 |
+| 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-04 |
+| 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency/) | Medium | 2026-10-04 |
+| 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-04 |
+| 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array/) | Easy | 2026-10-04 |
+| 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k/) | Medium | 2026-10-04 |
+| 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-10-04 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-04 |
+| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
