@@ -6,7 +6,6 @@ class Solution:
         for num in s:
             if num - 1 not in s:
                 count = 1
-
                 while num + count in s:
                     count += 1
 
