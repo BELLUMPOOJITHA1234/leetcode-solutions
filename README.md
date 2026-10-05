@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 37 (Easy: 17, Medium: 18, Hard: 2)
+Solved: 38 (Easy: 18, Medium: 18, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -42,4 +42,5 @@ Solved: 37 (Easy: 17, Medium: 18, Hard: 2)
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-10-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-05 |
+| 206 | [Reverse Linked List](206-reverse-linked-list/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
