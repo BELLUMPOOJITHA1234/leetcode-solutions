@@ -1,4 +1,4 @@
-// 0 ms | 19.1 MB
+// 0 ms | 19.2 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -6,8 +6,8 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
-        fast=head
         slow=head
+        fast=head
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
