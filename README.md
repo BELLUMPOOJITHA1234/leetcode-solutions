@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 38 (Easy: 18, Medium: 18, Hard: 2)
+Solved: 39 (Easy: 19, Medium: 18, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Solved: 38 (Easy: 18, Medium: 18, Hard: 2)
 | 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-10-05 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-10-05 |
 | 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-10-05 |
+| 206 | [Reverse Linked List](206-reverse-linked-list/) | Easy | 2026-10-05 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-10-05 |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-10-05 |
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-05 |
@@ -42,5 +43,5 @@ Solved: 38 (Easy: 18, Medium: 18, Hard: 2)
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-10-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-05 |
-| 206 | [Reverse Linked List](206-reverse-linked-list/) | Easy | 2026-10-05 |
+| 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
