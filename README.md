@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 37 (Easy: 16, Medium: 18, Hard: 2)
+Solved: 37 (Easy: 17, Medium: 18, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -24,7 +24,7 @@ Solved: 37 (Easy: 16, Medium: 18, Hard: 2)
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-10-05 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-10-05 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-05 |
-|  | [middle-of-the-linked-list](middle-of-the-linked-list/) | Unknown | 2026-10-05 |
+| 876 | [Middle of the Linked List](876-middle-of-the-linked-list/) | Easy | 2026-10-05 |
 | 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-10-05 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-10-05 |
 | 1122 | [Relative Sort Array](1122-relative-sort-array/) | Easy | 2026-10-05 |
