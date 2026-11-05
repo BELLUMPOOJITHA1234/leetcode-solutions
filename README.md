@@ -6,6 +6,7 @@ Solved: 47 (Easy: 23, Medium: 22, Hard: 2)
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 15 | [3Sum](15-3sum/) | Medium | 2026-11-05 |
+| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-11-05 |
 | 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-11-05 |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | Easy | 2026-11-05 |
 | 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy | 2026-11-05 |
@@ -51,5 +52,4 @@ Solved: 47 (Easy: 23, Medium: 22, Hard: 2)
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-11-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-05 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-11-05 |
-| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-11-05 |
 <!-- LEETHUB:TABLE:END -->
